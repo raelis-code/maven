@@ -9,3 +9,4 @@ clean validate compile test package verify install site deploy
 ```
 
 La destination `deploy` est configurée dans le `pom.xml` vers un dépôt Maven local au dossier `maven-repo/`.
+salut
